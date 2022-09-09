@@ -11,9 +11,9 @@ namespace SendMessageViaSMS
     {
         static void Main(string[] args)
         {
-            string number = "+33661782612";
-            string message = "SSAAAAAAAAAAALUTG";
-            SendMessage.SendSMS(number, message);
+            Console.WriteLine("Insérez le message à envoyer :");
+            string message = Console.ReadLine();
+            SendMessage.SendSMS(Information.ToNumber, message);
         }
     }
 }

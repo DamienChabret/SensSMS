@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3QcAKXHSDKTo7E1SSvJVbPj1Yj6a+2Pt7iwpAHlKAN38QxccEn0fK8SssQnvLyuwPD7j8CcQUDLct6X85DNewg==",
+  "dgSpecHash": "Hb3PeJ7Arvkg764Cv8q2Ev7sxSLTiEiiN6TSffxx1wun/guo4EvHI1GYyEntBqdf8mwnx8cX+Kd2rpOhuh23Lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SendMessageViaSMS\\SendMessageViaSMS\\SendMessageViaSMS.csproj",
+  "projectFilePath": "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SensSMS\\SendMessageViaSMS\\SendMessageViaSMS\\SendMessageViaSMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Damien\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Damien\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.19.0\\microsoft.identitymodel.abstractions.6.19.0.nupkg.sha512",

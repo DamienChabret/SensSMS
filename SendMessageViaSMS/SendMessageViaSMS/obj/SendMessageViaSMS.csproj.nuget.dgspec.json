@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SendMessageViaSMS\\SendMessageViaSMS\\SendMessageViaSMS.csproj": {}
+    "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SensSMS\\SendMessageViaSMS\\SendMessageViaSMS\\SendMessageViaSMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SendMessageViaSMS\\SendMessageViaSMS\\SendMessageViaSMS.csproj": {
+    "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SensSMS\\SendMessageViaSMS\\SendMessageViaSMS\\SendMessageViaSMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SendMessageViaSMS\\SendMessageViaSMS\\SendMessageViaSMS.csproj",
+        "projectUniqueName": "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SensSMS\\SendMessageViaSMS\\SendMessageViaSMS\\SendMessageViaSMS.csproj",
         "projectName": "SendMessageViaSMS",
-        "projectPath": "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SendMessageViaSMS\\SendMessageViaSMS\\SendMessageViaSMS.csproj",
+        "projectPath": "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SensSMS\\SendMessageViaSMS\\SendMessageViaSMS\\SendMessageViaSMS.csproj",
         "packagesPath": "C:\\Users\\Damien\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SendMessageViaSMS\\SendMessageViaSMS\\obj\\",
+        "outputPath": "C:\\Users\\Damien\\Documents\\!Programme\\C#\\SensSMS\\SendMessageViaSMS\\SendMessageViaSMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Outils\\Visual Studio\\Visual Studio 2019 Shared\\NuGetPackages"
